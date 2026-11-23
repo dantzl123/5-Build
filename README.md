@@ -12,7 +12,7 @@ Indie Film Collective is a four-page website where visitors can learn about inde
 
 ## Published Website
 
-PASTE_YOUR_PUBLISHED_URL_HERE
+https://dantzl123.github.io/5-Build/
 
 ## AI Use Statement
 
